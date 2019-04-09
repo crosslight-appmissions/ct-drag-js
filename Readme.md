@@ -9,7 +9,7 @@ Drag.JS allows to perform various drag operations on HTML element. Some of the c
 ## Usage
 
 ```
-import Drag from 'ctdrag';
+import Drag from 'ct-drag-js';
 
 const drag = new Drag();
 
