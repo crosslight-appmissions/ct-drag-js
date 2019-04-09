@@ -1,6 +1,6 @@
 {
   "name": "ct-drag-js",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Make html element movable, resizable, selectable",
   "main": "build/index.js",
   "dependencies": {
