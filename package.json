@@ -17,9 +17,11 @@
     "url": ""
   },
   "license": "MIT",
+  "keywords": ["ct-drag-js", "drag", "drag-js","dragjs", "ct", "crosslight", "churchtalk"],
   "author": {
     "name": "Deep Prakash",
-    "email": "deep@churchtalk.io"
+    "email": "deep@churchtalk.io",
+    "company" : "Crosslight Appmissions Pvt Ltd."
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
