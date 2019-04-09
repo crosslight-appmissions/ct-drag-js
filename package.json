@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/crosslight-appmissions/ct-drag-js"
   },
   "license": "MIT",
   "keywords": ["ct-drag-js", "drag", "drag-js","dragjs", "ct", "crosslight", "churchtalk"],
